@@ -6,7 +6,8 @@ import requests
 import numpy
 import math
 
-r = requests.get('https://api.github.com/user', auth=('user', 'pass'))
+# example
+# r = requests.get('https://api.github.com/user', auth=('user', 'pass'))
 app = FastAPI()
 
 class Item(BaseModel):
