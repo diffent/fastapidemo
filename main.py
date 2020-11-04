@@ -6,6 +6,7 @@ import requests
 import numpy
 import math
 
+# deploy 
 # example
 # r = requests.get('https://api.github.com/user', auth=('user', 'pass'))
 app = FastAPI()
