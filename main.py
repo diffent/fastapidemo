@@ -6,9 +6,8 @@ import requests
 import numpy
 import math
 
-# deploy 2
-# example
-# r = requests.get('https://api.github.com/user', auth=('user', 'pass'))
+# based on fastapi hello world, add /volatility path at end
+
 app = FastAPI()
 
 class Item(BaseModel):
