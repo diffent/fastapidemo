@@ -69,7 +69,6 @@ llvmlite==0.34.0
 locket==0.2.0
 Markdown==3.2.2
 mccabe==0.6.1
-mkl-fft==1.2.0
 mkl-random==1.1.1
 mkl-service==2.3.0
 mock==4.0.2
