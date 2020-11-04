@@ -99,7 +99,6 @@ pycosat==0.6.3
 pycurl==7.43.0.5
 pydantic==1.7.2
 pyflakes==2.2.0
-pyodbc===4.0.0-unsupported
 PyOpenGL==3.1.1a1
 pyparsing==2.4.7
 pypng==0.0.20
